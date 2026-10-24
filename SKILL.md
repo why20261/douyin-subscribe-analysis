@@ -11,6 +11,10 @@ description: >
   触发词：抖音搜索、抖音热榜、抖音评论、抖音博主、抖音竞品分析、短视频选题、抖音舆情、抖音数据分析、douyin search、douyin analytics、douyin comment。
 license: MIT
 version: "1.4.0"
+display_name: 抖音账号订阅追踪 GUAIKEI 抖音博主洞察
+display_name_en: DouYin Subscribe Analysis
+description_zh: 抖音账号订阅追踪 — 通过抖音号订阅账号，Agent 每日 9:00 、13:00、17:00 自动拉取并生成报告。
+description_en: DouYin Account Subscription Tracking. Subscribe to accounts by DouYin ID; the Agent auto-pulls data and generates reports at 09:00, 13:00, 17:00 every day.
 metadata:
   openclaw:
     emoji: "🎬"
